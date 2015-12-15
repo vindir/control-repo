@@ -1,0 +1,4 @@
+#!/bin/bash
+
+/usr/local/bin/r10k deploy environment -pv
+
