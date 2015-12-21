@@ -1,0 +1,3 @@
+devvdpuppettest2.devdc.vocal-dev.com:
+ - 'roles::pi_contacts'
+
