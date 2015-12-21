@@ -1,3 +1,2 @@
-devvdpuppettest2.devdc.vocal-dev.com:
- - 'roles::pi_contacts'
-
+devvdpuppettest2_devdc_vocal-dev_com:
+ - 'profile::base'
